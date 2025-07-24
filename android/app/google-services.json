@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "179884179331",
+    "firebase_url": "https://react-native-38876-default-rtdb.firebaseio.com",
+    "project_id": "react-native-38876",
+    "storage_bucket": "react-native-38876.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179884179331:android:ba81899228708d2a5400b6",
+        "android_client_info": {
+          "package_name": "com.expensestracerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiDhLoMqZ_ZKnSKNN5Ov6uj3QfIsFFvJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179884179331:android:02d05f9373ea478e5400b6",
+        "android_client_info": {
+          "package_name": "com.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiDhLoMqZ_ZKnSKNN5Ov6uj3QfIsFFvJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179884179331:android:2e640680566ce8f55400b6",
+        "android_client_info": {
+          "package_name": "com.firebaseproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiDhLoMqZ_ZKnSKNN5Ov6uj3QfIsFFvJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179884179331:android:12c024000477425b5400b6",
+        "android_client_info": {
+          "package_name": "com.healthapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiDhLoMqZ_ZKnSKNN5Ov6uj3QfIsFFvJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
