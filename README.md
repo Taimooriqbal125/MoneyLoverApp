@@ -1,4 +1,4 @@
-# 💰 .moneylover – Expense Tracker App
+# 💰 MoneyLover –      ( An Expense Tracker App )
 
 A simple and modern **React Native** app to track your daily expenses with beautiful UI, charts, category-wise filtering, and Google Sign-In support.
 
